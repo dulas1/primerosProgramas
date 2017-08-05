@@ -1,1 +1,11 @@
 C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\bin\Debug\Opciones.exe.config
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\bin\Debug\Opciones.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\bin\Debug\Opciones.pdb
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\bin\Debug\Opciones.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.vbprojResolveAssemblyReference.cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.Form1.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.Resources.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.vbproj.GenerateResource.Cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Opciones\Opciones\obj\Debug\Opciones.pdb
