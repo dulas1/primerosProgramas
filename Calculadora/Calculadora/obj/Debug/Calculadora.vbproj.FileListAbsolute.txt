@@ -1,1 +1,11 @@
 C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
