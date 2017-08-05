@@ -22,9 +22,40 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Me.txt1 = New System.Windows.Forms.TextBox()
+        Me.btn1 = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'txt1
+        '
+        Me.txt1.Location = New System.Drawing.Point(13, 15)
+        Me.txt1.Name = "txt1"
+        Me.txt1.Size = New System.Drawing.Size(167, 20)
+        Me.txt1.TabIndex = 0
+        '
+        'btn1
+        '
+        Me.btn1.Location = New System.Drawing.Point(186, 14)
+        Me.btn1.Name = "btn1"
+        Me.btn1.Size = New System.Drawing.Size(75, 23)
+        Me.btn1.TabIndex = 1
+        Me.btn1.Text = "Imprimir"
+        Me.btn1.UseVisualStyleBackColor = True
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(284, 58)
+        Me.Controls.Add(Me.btn1)
+        Me.Controls.Add(Me.txt1)
+        Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
     End Sub
 
+    Friend WithEvents txt1 As TextBox
+    Friend WithEvents btn1 As Button
 End Class
