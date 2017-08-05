@@ -1,1 +1,11 @@
 C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\bin\Debug\Nombre.exe.config
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\bin\Debug\Nombre.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\bin\Debug\Nombre.pdb
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\bin\Debug\Nombre.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.vbprojResolveAssemblyReference.cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.Form1.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.Resources.resources
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.vbproj.GenerateResource.Cache
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.exe
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.xml
+C:\Users\PcEsc\Documents\visual studio 2015\Projects\primerosProgramas\Nombre\Nombre\obj\Debug\Nombre.pdb
